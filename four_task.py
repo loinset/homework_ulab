@@ -22,3 +22,5 @@ def bananas(line):
 
 
 enter_line = input()
+
+print(*bananas(enter_line), sep='\n')
