@@ -30,3 +30,4 @@ def domain_name(url):
 
 enters_url = input()
 print(domain_name(enters_url))
+
